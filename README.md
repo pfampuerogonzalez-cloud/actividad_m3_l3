@@ -8,4 +8,4 @@ R. Me pareció más intuitiva el tipo de condicional IF-ELSE, ya qué es bastant
 
 EN QUÉ CASO USARÍAS CONDICIONES ANIDADAS EN UN PROGRAMA REAL?
 
-en el caso de realizar un código de login.
+R. En el caso de realizar un código de login.
